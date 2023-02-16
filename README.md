@@ -9,3 +9,7 @@
 
 
 2. ``` cargo run  ```
+
+3. Start the local host 
+
+     ``` Eg - localhost:8008/add/10/15 ```
