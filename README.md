@@ -5,7 +5,7 @@
 
 
 ## Running
+1. Clone this repo
 
-``` 
-  cargo run 
-  ```
+
+2. ``` cargo run  ```
